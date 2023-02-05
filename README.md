@@ -1,10 +1,11 @@
 # GitHubSetup
-<!DOCTYPE html
+<!DOCTYPE html>
 <html>
 <body>
 
-<h1> This is my first ever website made on VS code.
-<p> This just a practice website I can get better at it.
+<h1> This is my first website! </h1>
+<p> I like to play football a lot.
+<p> I also support Real Madrid
 
-<body>
-<html>
+</body>
+</html>
